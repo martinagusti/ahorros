@@ -1,0 +1,25 @@
+input{
+    width: 150px;
+    margin: 5px;
+    text-align: end;
+    border-radius: 7px;
+    background-color: rgb(193, 230, 230);
+    font-size: 26px;
+}
+body{
+    background-color:rgb(43, 233, 43) ;
+    text-align: center;
+}
+button{
+    width: 250px;
+    height: 75px;
+    border-radius: 15px;
+    background-color: blue;
+    margin-top: 40px;
+    font-size: 32px;
+    color: antiquewhite;
+}
+h1{
+    color: rgb(13, 3, 44);
+    font-size: 40px;
+}
